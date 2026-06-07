@@ -45,10 +45,6 @@ git push -u origin aarohi/break-and-fix
 
 ### 5. Open a Pull Request when done
 
-```bash
-gh pr create --title "Aarohi – Bug fixes + Quote Voting" --body "Fixes all 10 bugs and implements the Quote Voting feature."
-```
-
 This lets your mentor review the changes before merging into `main`.
 
 ---
