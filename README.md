@@ -9,6 +9,50 @@ Full-stack app built with FastAPI + React. Covers:
 
 ---
 
+## Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/santoshprolocity/note-manager.git
+cd note-manager
+```
+
+### 2. Create your working branch
+
+Make a branch with your name so your changes are separate from `main`.
+
+```bash
+git checkout -b aarohi/break-and-fix
+```
+
+All your bug fixes and new feature work go on this branch.
+
+### 3. Commit your changes as you go
+
+```bash
+git add .
+git commit -m "fix: describe what you fixed"
+```
+
+Use short, descriptive commit messages — one commit per bug fix is a good habit.
+
+### 4. Push your branch to GitHub
+
+```bash
+git push -u origin aarohi/break-and-fix
+```
+
+### 5. Open a Pull Request when done
+
+```bash
+gh pr create --title "Aarohi – Bug fixes + Quote Voting" --body "Fixes all 10 bugs and implements the Quote Voting feature."
+```
+
+This lets your mentor review the changes before merging into `main`.
+
+---
+
 ## Setup
 
 ### Backend
